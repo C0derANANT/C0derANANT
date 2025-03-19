@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @C0derANANT
 - 👀 I’m Interested in Artificial Intelligence
-- 🌱 I’m Currently Learning Pythn
+- 🌱 I’m Currently Learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
